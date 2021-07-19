@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+nav{
+    display: inline-block;
+    position: absolute;
+    right: 5%;
+    top: 0%;
+    padding-top: 0.5em;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+#logo{
+    margin-left: 5%;
+}
+#banner{
+    width: 100%;
+    height: auto;
+}
+h3{
+    padding: 3% 5%;
+}
+.container-fluid{
+    background-color: rgb(155, 241, 241);
+}
+#list-img{
+    width: 100%;
+    height: auto;
+}
+footer{
+    background-color: gray;
+}
+.fa, .info{
+    color: greenyellow;
+}
+#intro{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
