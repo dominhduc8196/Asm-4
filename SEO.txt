@@ -1,0 +1,5 @@
+Bài ASM-4 của em làm về giới thiệu cảnh đẹp của Việt Nam, thì em đã áp dụng kỹ thuật SEO cho thẻ title:
+
+-Ở trang chủ em giới thiệu qua về các địa điểm ở Việt Nam thì thẻ title em để nội dung là "Cảnh đẹp Việt Nam"
+-Ở trong <head> em có thêm thẻ <meta name="description"> để giới thiệu về chủ đề của website
+-Thẻ title ở các website mà link đến trang chủ thì em để nội dung là "Vẻ đẹp" + "tên địa điểm đó"
